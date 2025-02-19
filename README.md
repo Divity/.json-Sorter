@@ -5,6 +5,8 @@ HOW TO USE
 3. run the exe
 4. follow on screen prompt
 ![image](https://github.com/user-attachments/assets/32d33a80-a580-451b-8266-6ae589afbda9)
+![image](https://github.com/user-attachments/assets/36277c6b-4948-4d35-86df-56a64e8a050c)
+
 
 
 this a super basic c++ .json file sorter it simply asks you for your key and its value and will parse through all of the json files within the directory checking them for the key and value and sorting them to a folder named after your value input 
