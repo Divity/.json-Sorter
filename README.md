@@ -1,3 +1,9 @@
+HOW TO USE 
+
+1. download from releases ( https://github.com/Divity/.json-Sorter/releases/tag/v1.0.0 ) 
+2. place in folder containing jsons
+3. run the exe
+4. follow on screen prompt
 ![image](https://github.com/user-attachments/assets/32d33a80-a580-451b-8266-6ae589afbda9)
 
 
